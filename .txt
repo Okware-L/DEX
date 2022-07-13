@@ -1,0 +1,5 @@
+Factory address - 0xC48F0ffAf10F080D7435fd5789Eb9dE154D5c37e
+Router address - 0xAC6F4cA0fa0Ed4d1c1B4b865e0403070E51478D9
+
+
+the above are for rinkeby only.
